@@ -1,3 +1,7 @@
 input/
-node_modules/
+node_modules/async/
+node_modules/final-fs/
+node_modules/mkdirp/
+node_modules/underscore/
+node_modules/win-spawn/
 output/
